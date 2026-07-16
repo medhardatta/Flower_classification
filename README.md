@@ -2,7 +2,7 @@
 
 A deep learning web app that identifies flowers from photos across 5 categories: **daisy, dandelion, rose, sunflower, and tulip**.
 
-**🔗 Live demo:** _add your Streamlit app URL here once deployed_
+**🔗 Live demo:**[ _add your Streamlit app URL here once deployed_](https://flowerclassification-7mo8qykejgejzzpqwekosw.streamlit.app/)
 
 ## How it works
 
